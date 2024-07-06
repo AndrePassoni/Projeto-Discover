@@ -96,6 +96,11 @@ body * {
     border-radius: 9999px;
 }
 
+#steam {
+    width: 30px;
+    height: 30px;
+}
+
 ul {
     margin-top: 8px;
     list-style: none;
